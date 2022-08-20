@@ -1,4 +1,4 @@
-# Projeto
+# Gestão de Alunos
 CRUD simples, cadastro de alunos e exibição das informações de forma simples e intuitiva.
 O projeto tem o objetivo de mostrar um CRUD em funcionamento. É bem simples com uma tela de cadastro e uma tela de exibição das informações do cadastros.
 A linguagem usada foi PHP 7  e Jquery, com framework Codeigniter 4.
